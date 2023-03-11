@@ -1,0 +1,27 @@
+1678091844381	geckodriver	INFO	Listening on 127.0.0.1:65143
+1678091847424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mrmra\\AppData\\Local\\Temp\\rust_mozprofile8UfgMg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678091847893	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678091847901	Marionette	INFO	Listening on port 65163
+Read port: 65163
+WebDriver BiDi listening on ws://127.0.0.1:65144
+1678091848098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mrmra\\AppData\\Local\\Temp\\rust_mozprofile8UfgMg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65144/devtools/browser/274a6fc9-b094-4c35-b82f-a5e594a724cf
+1678092553595	Marionette	INFO	Stopped listening on port 65163
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mrmra\\AppData\\Local\\Temp\\rust_mozprofileuA4wl2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678092399258	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678092399264	Marionette	INFO	Listening on port 65491
+Read port: 65491
+WebDriver BiDi listening on ws://127.0.0.1:65484
+1678092399439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mrmra\\AppData\\Local\\Temp\\rust_mozprofileuA4wl2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65484/devtools/browser/ccc745be-9341-4f93-8133-a311ebd793ce
+JavaScript error: https://apps.bazaarvoice.com/deployments/webuy/main_site/production/en_GB/bv.js, line 17: Error: Error: could not load https://apps.bazaarvoice.com/analytics/bv-analytics.js
+JavaScript error: https://uk.webuy.com/_nuxt/964b963.js, line 2: Error: Request aborted
